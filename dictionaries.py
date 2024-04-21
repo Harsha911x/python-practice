@@ -50,7 +50,6 @@ def add(country,cities,total_visits):
     new_travel["country"]=country,
     new_travel["cities"]=cities,
     new_travel["total_visits"]=total_visits
-    n=len(travel_log)
     travel_log.append(new_travel)
     
 country="Russia"

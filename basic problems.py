@@ -4,4 +4,5 @@ def prime(num):
                print("not prime")
                return
      print("prime")
+#input
 prime(33)
